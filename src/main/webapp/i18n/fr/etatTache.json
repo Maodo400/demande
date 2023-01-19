@@ -1,0 +1,10 @@
+{
+  "interventionApp": {
+    "EtatTache": {
+      "null": "",
+      "Nouvelle": "Nouvelle",
+      "En_Cours": "En_Cours",
+      "Fini": "Fini"
+    }
+  }
+}

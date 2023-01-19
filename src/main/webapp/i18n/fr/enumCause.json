@@ -1,0 +1,11 @@
+{
+  "interventionApp": {
+    "EnumCause": {
+      "null": "",
+      "Usure_Normale": "Usure normale",
+      "Defaut_D_Utilisateur": "Defaut d'utilisateur",
+      "Defaut_Produit": "Défaut produit",
+      "Autres_A_Preciser": "Autres à préciser"
+    }
+  }
+}

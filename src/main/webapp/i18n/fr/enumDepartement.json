@@ -1,0 +1,21 @@
+{
+  "interventionApp": {
+    "EnumDepartement": {
+      "null": "",
+      "Genie_Civile": "Génie Civile",
+      "Genie_Informatique": "Génie Informatique",
+      "Genie_Mecanique": "Génie Mecanique",
+      "Batiment_Direction": "Batiment Direction",
+      "LPAO": "LPAO",
+      "LMAGI": "LMAGI",
+      "CRENT": "CRENT",
+      "Literal8": "Literal8",
+      "Genie_Chimique": "Génie Chimique",
+      "Genie_Electrique": "Génie Electrique",
+      "Gestion": "Gestion",
+      "Ressources_Humaines": "Ressources Humaines",
+      "Caisse": "Caisse",
+      "Autres": "Autres"
+    }
+  }
+}

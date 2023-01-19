@@ -1,0 +1,10 @@
+{
+  "interventionApp": {
+    "EnumPriorite": {
+      "null": "",
+      "Pas_Urgent": "Pas Urgent",
+      "Urgent": "Urgent",
+      "Peu_Urgent": "Peu Urgent"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "home": {
+    "title": "Demande d'intervention !",
+    "subtitle": "Nous essayerons de prendre en compte vos réclamations dans les plus brefs délais",
+    "logged": {
+      "message": "Vous êtes connecté en tant que \"{{username}}\".",
+      "faire": "Faire une demande"
+    },
+    "question": "Si vous avez des questions à propos de JHipster :",
+    "link": {
+      "homepage": "Page d'accueil de JHipster",
+      "stackoverflow": "JHipster sur Stack Overflow",
+      "bugtracker": "JHipster bug tracker",
+      "chat": "JHipster public chat room",
+      "follow": "Suivez @jhipster sur Twitter"
+    },
+    "like": "Si vous n'avez pas de compte, ",
+    "github": "Creer un compte"
+  }
+}

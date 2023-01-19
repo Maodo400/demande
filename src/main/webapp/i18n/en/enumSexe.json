@@ -1,0 +1,9 @@
+{
+  "interventionApp": {
+    "EnumSexe": {
+      "null": "",
+      "M": "M",
+      "F": "F"
+    }
+  }
+}

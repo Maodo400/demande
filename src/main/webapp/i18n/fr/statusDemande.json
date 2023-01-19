@@ -1,0 +1,9 @@
+{
+  "interventionApp": {
+    "StatusDemande": {
+      "null": "",
+      "Ok": "Ok",
+      "En_cours": "En_cours"
+    }
+  }
+}
